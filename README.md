@@ -1,6 +1,6 @@
-# Project Title
+# Project Title👋
 
-WhatsApp UI using Tailwindcss
+Whatsapp UI design by using TailwindCSS
 
 ## Table of Contents
 - [Project Title](#project-title)
@@ -9,47 +9,50 @@ WhatsApp UI using Tailwindcss
 - [Internship](#internship)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
+- [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 
 
 ## Description
 
-I have recreated a WhatsApp UI using Tailwindcss and HTML , which displays the updated UI of the WhatsApp.
+WhatsApp's user interface (UI) features a clean, simple design. The home screen displays chats, with a bottom navigation bar for calls, camera, status, and settings. Conversations show text, images, and voice messages, offering a user-friendly experience.
 
-## Demo
+## Demo🚀
 
-[You can see the live demo here](https://kishorekumar-kp.github.io/Whatsapp-ui-template/index.html)
+<a target="_blank" href="https://kishorekumar-kp.github.io/Whatsapp-ui-template/index.html">Demo Link</a>
 
-## Internship
+## Internship🥳
 
-This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.com/cyberdudenetworks), a skill development initiative organized to enhance participants' skills. Mentoring was provided by [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky). For more information, [you can contact CyberDude Networks here](https://cyberdudenetworks.com).
+This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.com/cyberdudenetworks) as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky). For more information, [you can contact CyberDude Networks here](https://cyberdudenetworks.com).
 
 ## Technologies Used
-
-HTML5
-Tailwindcss
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj" alt="tailwind" width="40" height="40"/> </a> 
 
 ## Features
 
-This project is recreated as per my whatsapp UI, with latest updated sections as per WhatsApp.
+- To help you understand my skills and information better, I kindly request you to take a look at my Profile.
+
+
+
+## Contributing
+
+If you want to contribute to the project, please follow the guidelines outlined in the installation. You can also contribute and edit the design to make more Perfect.
 
 ## License
 
-MIT
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Acknowledgments
+
+- **Cyberdude Network Pty Limited:** Thanks to [CyberDude Networks Pvt. Ltd.](https://youtube.com/cyberdudenetworks) opportunity and guidance.
+
+- **Mentor Name:** Special thanks to [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky) for their valuable mentorship.
 
 
 ---
-##Social Media
-[LinkdIn](https://www.linkedin.com/in/kishorekumar-kp/)
-
-
-
-
-
-
-
-
-
-
-
+Reach me to LinkedIn **https://www.linkedin.com/in/kishorekumar-kp/**
 
